@@ -1,0 +1,10 @@
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\bin\Debug\Desafio_Arquitetura_Emerson.exe.config
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\bin\Debug\Desafio_Arquitetura_Emerson.exe
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\bin\Debug\Desafio_Arquitetura_Emerson.pdb
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\obj\Debug\Desafio_Arquitetura_Emerson.csprojAssemblyReference.cache
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\obj\Debug\Desafio_Arquitetura_Emerson.Properties.Resources.resources
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\obj\Debug\Desafio_Arquitetura_Emerson.csproj.GenerateResource.cache
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\obj\Debug\Desafio_Arquitetura_Emerson.exe
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\obj\Debug\Desafio_Arquitetura_Emerson.pdb
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\obj\Debug\Desafio_Arquitetura_Emerson.FrmCadMensagem.resources
+C:\Users\Emers\source\repos\Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson\obj\Debug\Desafio_Arquitetura_Emerson.frmPesquisaMensagem.resources

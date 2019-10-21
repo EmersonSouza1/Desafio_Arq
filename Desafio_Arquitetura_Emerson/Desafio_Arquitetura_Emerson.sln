@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_Arquitetura_Emerson", "Desafio_Arquitetura_Emerson\Desafio_Arquitetura_Emerson.csproj", "{747ADCAE-C21C-4E61-9148-70455EA232B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747ADCAE-C21C-4E61-9148-70455EA232B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747ADCAE-C21C-4E61-9148-70455EA232B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747ADCAE-C21C-4E61-9148-70455EA232B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747ADCAE-C21C-4E61-9148-70455EA232B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D33003-1CA7-40D5-854D-A7E2FB718DBA}
+	EndGlobalSection
+EndGlobal
